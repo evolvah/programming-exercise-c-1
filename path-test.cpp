@@ -3,7 +3,7 @@
 #include <string.h>
 #include <assert.h>
 
-// tested on OS X
+// tested on OS X and Amazon Linux
 #if defined(__APPLE__)
 #include <sys/syslimits.h>
 #elif defined(__linux__)
